@@ -1,0 +1,3 @@
+[submodule "liblinear"]
+	path = liblinear
+	url = git@github.com:cjlin1/liblinear.git

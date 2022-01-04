@@ -1,0 +1,4 @@
+blas/
+liblinear/
+*.o
+node_modules/
